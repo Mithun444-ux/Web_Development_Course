@@ -29,10 +29,11 @@ Welcome to my central repository for my **Full Stack Web Development** journey! 
 ```text
 Web_Development_Course/
 ├── Week-01-practice/
-│   ├── party.html                                  # Birthday party invitation webpage
-│   ├── style.css                                   # Styling for party invitation
-│   ├── Tag.docx                                    # HTML tags documentation & notes
-│   └── invitation.docx                             # Design reference & guidelines
+│   └── 1-Weak-practice-module---Frontend-main/
+│       ├── party.html                                  # Birthday party invitation webpage
+│       ├── style.css                                   # Styling for party invitation
+│       ├── Tag.docx                                    # HTML tags documentation & notes
+│       └── invitation.docx                             # Design reference & guidelines
 │
 ├── Week-02-practice/
 │   └── css learning module/
@@ -61,37 +62,41 @@ Web_Development_Course/
 │       └── quiz.md                                 # Knowledge check & assessment questions
 │
 ├── Week-04-practice/
-│   ├── module-01-dom-introduction/                 # Introduction to Document Object Model
-│   ├── module-02-selecting-elements/               # getElementById, querySelector, querySelectorAll
-│   ├── module-03-changing-content/                 # textContent, innerHTML & innerText
-│   ├── module-04-changing-css/                     # Modifying styles & classList API
-│   ├── module-05-attributes/                       # getAttribute, setAttribute & dataset
-│   ├── module-06-create-remove-elements/           # createElement, appendChild, removeChild
-│   ├── module-07-events/                           # Event object, bubbling & propagation
-│   ├── module-08-forms-input/                      # Form handling, input events & validation
-│   ├── module-09-event-listeners/                  # addEventListener patterns & delegation
-│   └── module-10-dom-traversing/                   # Parent, children & sibling navigation
+│   └── JS-DOM/
+│       ├── module-01-dom-introduction/                 # Introduction to Document Object Model
+│       ├── module-02-selecting-elements/               # getElementById, querySelector, querySelectorAll
+│       ├── module-03-changing-content/                 # textContent, innerHTML & innerText
+│       ├── module-04-changing-css/                     # Modifying styles & classList API
+│       ├── module-05-attributes/                       # getAttribute, setAttribute & dataset
+│       ├── module-06-create-remove-elements/           # createElement, appendChild, removeChild
+│       ├── module-07-events/                           # Event object, bubbling & propagation
+│       ├── module-08-forms-input/                      # Form handling, input events & validation
+│       ├── module-09-event-listeners/                  # addEventListener patterns & delegation
+│       └── module-10-dom-traversing/                   # Parent, children & sibling navigation
 │
 ├── Week-05-practice/
-│   ├── Mini Project 1 - calculator/                # Interactive Arithmetic Calculator
-│   ├── Mini Project 2 - todo-list/                 # Core Todo List task manager
-│   ├── Mini Project 3 - todo-list (dom manupulation)/ # Dynamic DOM-based Todo App
-│   ├── Mini Project 4 — Student Grade Calculator/   # Mark calculation & grading system
-│   └── Mini Project 5 — Digital Counter/           # Click counter with state resets
+│   └── Fullstack Learning module - Mini projects/
+│       ├── Mini Project 1 - calculator/                # Interactive Arithmetic Calculator
+│       ├── Mini Project 2 - todo-list/                 # Core Todo List task manager
+│       ├── Mini Project 3 - todo-list (dom manupulation)/ # Dynamic DOM-based Todo App
+│       ├── Mini Project 4 — Student Grade Calculator/   # Mark calculation & grading system
+│       └── Mini Project 5 — Digital Counter/           # Click counter with state resets
 │
 ├── Week-06-practice/
-│   ├── Mini Project 6 — Digital Clock/             # Real-time ticking digital clock
-│   ├── Mini Project 7 — Random Color Generator/    # Dynamic color picker with background updates
-│   ├── Mini Project 8 — Age Calculator/            # Exact date & age computation
-│   ├── Mini Project 9 — Password Generator/        # Secure configurable credential generator
-│   └── Mini Project 10 — Quiz App/                 # Dynamic quiz engine with instant scoring
+│   └── Progressive Mini Projects/
+│       ├── Mini Project 6 — Digital Clock/             # Real-time ticking digital clock
+│       ├── Mini Project 7 — Random Color Generator/    # Dynamic color picker with background updates
+│       ├── Mini Project 8 — Age Calculator/            # Exact date & age computation
+│       ├── Mini Project 9 — Password Generator/        # Secure configurable credential generator
+│       └── Mini Project 10 — Quiz App/                 # Dynamic quiz engine with instant scoring
 │
 ├── Week-07-practice/
-│   ├── Mini Project 11 — Tip Calculator/           # Bill splitting & gratuity calculator
-│   ├── Mini Project 12 — Expense Tracker/          # Personal spending & budget manager
-│   ├── Mini Project 13 — Income & Expense Tracker/ # Dual-entry cashflow ledger with balance sheet
-│   ├── Mini Project 14 — Notes App/                # Dynamic sticky-notes interface with edit & delete
-│   └── Mini Project 15 — Expense Tracker with Local Storage/ # Persistent browser-storage expense tracker
+│   └── Advanced Mini Projects/
+│       ├── Mini Project 11 — Tip Calculator/           # Bill splitting & gratuity calculator
+│       ├── Mini Project 12 — Expense Tracker/          # Personal spending & budget manager
+│       ├── Mini Project 13 — Income & Expense Tracker/ # Dual-entry cashflow ledger with balance sheet
+│       ├── Mini Project 14 — Notes App/                # Dynamic sticky-notes interface with edit & delete
+│       └── Mini Project 15 — Expense Tracker with Local Storage/ # Persistent browser-storage expense tracker
 │
 └── Week-08-practice/
     └── university-management-system-main/          # Full-Stack University Management System
@@ -112,7 +117,7 @@ Web_Development_Course/
 
 ### 📄 Week 01 - HTML5 Foundations & Page Layout
 - **Concepts Learned:** Semantic HTML elements (`<header>`, `<nav>`, `<main>`, `<section>`, `<footer>`), typography, layout flow, and image embedding.
-- **Key Deliverable:** [party.html](Week-01-practice/party.html) — A custom invitation webpage designed with structured HTML5 tags and CSS styling.
+- **Key Deliverable:** [party.html](Week-01-practice/1-Weak-practice-module---Frontend-main/party.html) — A custom invitation webpage designed with structured HTML5 tags and CSS styling.
 - **Study Notes:** Detailed tag reference in `Tag.docx`.
 
 ---
