@@ -75,7 +75,7 @@ Web_Development_Course/
 │       └── module-10-dom-traversing/                   # Parent, children & sibling navigation
 │
 ├── Week-05-practice/
-│   └── Fullstack Learning module - Mini projects/
+│   └── Learning Mini Projects 1 to 5/
 │       ├── Mini Project 01 - calculator/               # Interactive Arithmetic Calculator
 │       ├── Mini Project 02 - todo-list/                # Core Todo List task manager
 │       ├── Mini Project 03 - todo-list (dom manupulation)/ # Dynamic DOM-based Todo App
@@ -83,7 +83,7 @@ Web_Development_Course/
 │       └── Mini Project 05 - Digital Counter/          # Click counter with state resets
 │
 ├── Week-06-practice/
-│   └── Progressive Mini Projects/
+│   └── Learning Mini Projects 6 to 10/
 │       ├── Mini Project 06 - Digital Clock/            # Real-time ticking digital clock
 │       ├── Mini Project 07 - Random Color Generator/   # Dynamic color picker with background updates
 │       ├── Mini Project 08 - Age Calculator/           # Exact date & age computation
@@ -91,7 +91,7 @@ Web_Development_Course/
 │       └── Mini Project 10 - Quiz App/                 # Dynamic quiz engine with instant scoring
 │
 ├── Week-07-practice/
-│   └── Advanced Mini Projects/
+│   └── Learning Mini Projects 11 to 15/
 │       ├── Mini Project 11 - Tip Calculator/           # Bill splitting & gratuity calculator
 │       ├── Mini Project 12 - Expense Tracker/          # Personal spending & budget manager
 │       ├── Mini Project 13 - Income & Expense Tracker/ # Dual-entry cashflow ledger with balance sheet
