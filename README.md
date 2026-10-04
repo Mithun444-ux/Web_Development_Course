@@ -76,27 +76,27 @@ Web_Development_Course/
 │
 ├── Week-05-practice/
 │   └── Fullstack Learning module - Mini projects/
-│       ├── Mini Project 1 - calculator/                # Interactive Arithmetic Calculator
-│       ├── Mini Project 2 - todo-list/                 # Core Todo List task manager
-│       ├── Mini Project 3 - todo-list (dom manupulation)/ # Dynamic DOM-based Todo App
-│       ├── Mini Project 4 — Student Grade Calculator/   # Mark calculation & grading system
-│       └── Mini Project 5 — Digital Counter/           # Click counter with state resets
+│       ├── Mini Project 01 - calculator/               # Interactive Arithmetic Calculator
+│       ├── Mini Project 02 - todo-list/                # Core Todo List task manager
+│       ├── Mini Project 03 - todo-list (dom manupulation)/ # Dynamic DOM-based Todo App
+│       ├── Mini Project 04 - Student Grade Calculator/  # Mark calculation & grading system
+│       └── Mini Project 05 - Digital Counter/          # Click counter with state resets
 │
 ├── Week-06-practice/
 │   └── Progressive Mini Projects/
-│       ├── Mini Project 6 — Digital Clock/             # Real-time ticking digital clock
-│       ├── Mini Project 7 — Random Color Generator/    # Dynamic color picker with background updates
-│       ├── Mini Project 8 — Age Calculator/            # Exact date & age computation
-│       ├── Mini Project 9 — Password Generator/        # Secure configurable credential generator
-│       └── Mini Project 10 — Quiz App/                 # Dynamic quiz engine with instant scoring
+│       ├── Mini Project 06 - Digital Clock/            # Real-time ticking digital clock
+│       ├── Mini Project 07 - Random Color Generator/   # Dynamic color picker with background updates
+│       ├── Mini Project 08 - Age Calculator/           # Exact date & age computation
+│       ├── Mini Project 09 - Password Generator/       # Secure configurable credential generator
+│       └── Mini Project 10 - Quiz App/                 # Dynamic quiz engine with instant scoring
 │
 ├── Week-07-practice/
 │   └── Advanced Mini Projects/
-│       ├── Mini Project 11 — Tip Calculator/           # Bill splitting & gratuity calculator
-│       ├── Mini Project 12 — Expense Tracker/          # Personal spending & budget manager
-│       ├── Mini Project 13 — Income & Expense Tracker/ # Dual-entry cashflow ledger with balance sheet
-│       ├── Mini Project 14 — Notes App/                # Dynamic sticky-notes interface with edit & delete
-│       └── Mini Project 15 — Expense Tracker with Local Storage/ # Persistent browser-storage expense tracker
+│       ├── Mini Project 11 - Tip Calculator/           # Bill splitting & gratuity calculator
+│       ├── Mini Project 12 - Expense Tracker/          # Personal spending & budget manager
+│       ├── Mini Project 13 - Income & Expense Tracker/ # Dual-entry cashflow ledger with balance sheet
+│       ├── Mini Project 14 - Notes App/                # Dynamic sticky-notes interface with edit & delete
+│       └── Mini Project 15 - Expense Tracker with Local Storage/ # Persistent browser-storage expense tracker
 │
 └── Week-08-practice/
     └── university-management-system-main/          # Full-Stack University Management System
