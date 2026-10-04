@@ -1,5 +1,7 @@
 # 🎓 Full Stack University Management System
 
+A role-based university portal with administrative analytics, faculty course management, student workflows, and offline AI intelligence.
+
 ## ✨ Features
 
 ### Role-based portals (each with a distinct theme)
