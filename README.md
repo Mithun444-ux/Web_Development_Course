@@ -19,6 +19,8 @@ Welcome to my central repository for my **Full Stack Web Development** journey! 
 | **[Week 04](#-week-04---dom-manipulation--event-handling)** | DOM Manipulation & Events | Vanilla JS, Web APIs | 10 progressive DOM manipulation & event handling modules |
 | **[Week 05](#-week-05---javascript-mini-projects-01--05)** | Practical DOM Mini Projects | HTML5, CSS3, JavaScript | Mini Projects 01–05 (Calculator, Todo Lists, Grade Calc, Counter) |
 | **[Week 06](#-week-06---javascript-mini-projects-06--10)** | Progressive Mini Projects | HTML5, CSS3, JavaScript | Mini Projects 06–10 (Clock, Color Gen, Age Calc, Password, Quiz) |
+| **[Week 07](#-week-07---javascript-mini-projects-11--15)** | Advanced DOM & Local Storage Mini Projects | HTML5, CSS3, JavaScript | Mini Projects 11–15 (Tip Calc, Expense Trackers, Notes, Local Storage) |
+| **[Week 08](#-week-08---full-stack-university-management-system)** | Full Stack Web Application | Python, Django, Bootstrap 5, SQLite | University Management System with Role-Based Portals, AI Engine & Analytics |
 
 ---
 
@@ -77,12 +79,31 @@ Web_Development_Course/
 │   ├── Mini Project 4 — Student Grade Calculator/   # Mark calculation & grading system
 │   └── Mini Project 5 — Digital Counter/           # Click counter with state resets
 │
-└── Week-06-practice/
-    ├── Mini Project 6 — Digital Clock/             # Real-time ticking digital clock
-    ├── Mini Project 7 — Random Color Generator/    # Dynamic color picker with background updates
-    ├── Mini Project 8 — Age Calculator/            # Exact date & age computation
-    ├── Mini Project 9 — Password Generator/        # Secure configurable credential generator
-    └── Mini Project 10 — Quiz App/                 # Dynamic quiz engine with instant scoring
+├── Week-06-practice/
+│   ├── Mini Project 6 — Digital Clock/             # Real-time ticking digital clock
+│   ├── Mini Project 7 — Random Color Generator/    # Dynamic color picker with background updates
+│   ├── Mini Project 8 — Age Calculator/            # Exact date & age computation
+│   ├── Mini Project 9 — Password Generator/        # Secure configurable credential generator
+│   └── Mini Project 10 — Quiz App/                 # Dynamic quiz engine with instant scoring
+│
+├── Week-07-practice/
+│   ├── Mini Project 11 — Tip Calculator/           # Bill splitting & gratuity calculator
+│   ├── Mini Project 12 — Expense Tracker/          # Personal spending & budget manager
+│   ├── Mini Project 13 — Income & Expense Tracker/ # Dual-entry cashflow ledger with balance sheet
+│   ├── Mini Project 14 — Notes App/                # Dynamic sticky-notes interface with edit & delete
+│   └── Mini Project 15 — Expense Tracker with Local Storage/ # Persistent browser-storage expense tracker
+│
+└── Week-08-practice/
+    └── university-management-system-main/          # Full-Stack University Management System
+        ├── manage.py                               # Django CLI management script
+        ├── requirements.txt                        # Project dependencies
+        ├── accounts/                               # Custom User model, authentication & role profiles
+        ├── config/                                 # Django settings, routing (ASGI/WSGI) & URL conf
+        ├── university/                             # Academics, enrollment, grading, attendance & local AI engine
+        ├── templates/                              # Themed role-based dashboard & public landing templates
+        ├── static/                                 # CSS styling, JavaScript interactions & assets
+        ├── docs/                                   # Documentation and system screenshots
+        └── report/                                 # Comprehensive project report and diagrams
 ```
 
 ---
@@ -169,11 +190,48 @@ A progressive series of 5 interactive web applications exploring timing events, 
 
 ---
 
+### 💾 Week 07 - JavaScript Mini Projects (11 – 15)
+A specialized set of 5 interactive web applications focusing on calculations, dynamic financial tracking, DOM element management, and persistent client-side data storage:
+
+| # | Project | Description & Core Skills Practiced |
+| :-: | :--- | :--- |
+| **11** | **Tip Calculator** | Bill total, tip percentage calculation, input validation, and gratuity computation |
+| **12** | **Expense Tracker** | Expense item tracking, dynamic list node creation, cumulative total, and deletion handling |
+| **13** | **Income & Expense Tracker** | Dual-type cashflow tracking (income vs. expense), net balance computation, and conditional color styling |
+| **14** | **Notes App** | Interactive note management dashboard featuring note card creation, editing via prompts, individual removal, and bulk clearing |
+| **15** | **Expense Tracker (Local Storage)** | Full-featured financial dashboard with persistent browser `localStorage` serialization (`JSON.parse` / `JSON.stringify`), dynamic list re-rendering, and automated state synchronization |
+
+---
+
+### 🎓 Week 08 - Full Stack University Management System
+An enterprise-grade Full Stack web application engineered with **Python & Django 5**, featuring role-based portals, responsive analytics dashboards, automated student workflows, and an integrated offline AI engine:
+
+- **Key Highlights & Features:**
+  - **Themed Role-Based Portals:** Distinct interfaces tailored for:
+    - 🛡️ **Admin Portal:** System administration, course & fee management, enrollment tracking, at-risk detection, and fee collection analytics.
+    - 🧑‍🏫 **Faculty Portal:** Course overview, one-click attendance recording, assignment evaluation, class performance metrics, and grade distribution charts.
+    - 🎓 **Student Portal:** Attendance monitor, academic results / GPA breakdown, online assignment submission, fee status, and AI study tips.
+  - **Public-Facing Web Portal:** Searchable course catalog, institutional landing page with live campus statistics, about us, contact forms, and student self-registration.
+  - **Built-in Offline AI Engine:** Local intelligence operating without external API keys:
+    - 🤖 **AI Assistant:** Live chat widget querying the database for student attendance, results, fees, and campus info.
+    - 📈 **Performance Predictor:** Explainable weighted model forecasting term grades.
+    - ⚠️ **At-Risk Detector:** Automated detection of academically struggling students.
+    - 💡 **Smart Recommendations:** Personalized study insights and action items.
+  - **Academics Engine:** Departments, academic programs, courses, terms, student enrollments, attendance, assignments, and exam results.
+  - **Financial Management:** Invoice generation, payment tracking, and ledger records.
+  - **Tech Stack:** Django, Python, Bootstrap 5, Chart.js, Font Awesome, Bootstrap Icons, and SQLite.
+
+---
+
 ## 💻 Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -195,11 +253,22 @@ To explore or run any of the practice modules and projects locally:
    ```
 
 3. **Run in Browser:**
-   - **For HTML/CSS/DOM projects (Weeks 1, 2, 4, 5, 6):** Simply open any `.html` file directly in your browser, or use the **VS Code Live Server** extension (`Right Click -> Open with Live Server`).
+   - **For HTML/CSS/DOM projects (Weeks 1, 2, 4, 5, 6, 7):** Simply open any `.html` file directly in your browser, or use the **VS Code Live Server** extension (`Right Click -> Open with Live Server`).
    - **For JavaScript console exercises (Week 3):** Run any script with Node.js:
      ```bash
      node "Week-03-practice/JS-fundamentels-learning-module-main/examples/01-variables.js"
      ```
+   - **For Full Stack University Management System (Week 8):**
+     ```bash
+     cd "Week-08-practice/university-management-system-main"
+     python -m venv .venv
+     .venv\Scripts\activate       # On macOS/Linux: source .venv/bin/activate
+     pip install -r requirements.txt
+     python manage.py migrate
+     python manage.py seed_demo
+     python manage.py runserver
+     ```
+     Open `http://127.0.0.1:8000/` (Demo accounts: `admin`, `prof.rao`, `stu.aarav` with password `demo1234`).
 
 ---
 
