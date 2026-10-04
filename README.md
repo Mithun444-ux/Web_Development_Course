@@ -281,3 +281,5 @@ To explore or run any of the practice modules and projects locally:
 
 - **Developer:** [Mithun R K](https://github.com/Mithun444-ux)
 - **Mentor:** Special thanks to **[@Vimal4hckr](https://github.com/Vimal4hckr)** for continuous mentorship, technical guidance, and curriculum design.
+
+<!-- Full Stack Coursework Repository -->
